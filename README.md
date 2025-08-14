@@ -23,6 +23,19 @@ Before running the project, make sure you have:
 - (Optional) [cvlib](https://pypi.org/project/cvlib/) for simplified object detection
 - Pre-trained model weights (if not included)
 
+## 🚀 How to Run
+
+Follow these steps to run the project on your local machine:
+
+### 1. Clone the repository
+Open a terminal (Command Prompt or PowerShell on Windows, Terminal on Mac/Linux) and run:
+```bash
+git clone https://github.com/mfaiz61926/live-object-detection-using-python.git
+cd live-object-detection-using-python
+
+
 Install dependencies:
 ```bash
 pip install -r requirements.txt
+
+
